@@ -25,7 +25,7 @@ or host it online using **GitHub Pages**.
 ✅ **User Registration Form** – Input validation for name, email, and password  
 ✅ **Contact Page** – Displays company contact information  
 ✅ **About Page** – Information about the company  
-✅ **Responsive Design** – Works on both desktop and mobile screens  
+ 
 
 ---
 
